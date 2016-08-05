@@ -1,0 +1,314 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CD0D10E21D065925002EC8B0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0D10E11D065925002EC8B0 /* main.m */; };
+		CD0D10E51D065925002EC8B0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0D10E41D065925002EC8B0 /* AppDelegate.m */; };
+		CD0D10E81D065925002EC8B0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0D10E71D065925002EC8B0 /* ViewController.m */; };
+		CD0D10EB1D065925002EC8B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0D10E91D065925002EC8B0 /* Main.storyboard */; };
+		CD0D10ED1D065925002EC8B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0D10EC1D065925002EC8B0 /* Assets.xcassets */; };
+		CD0D10F01D065925002EC8B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0D10EE1D065925002EC8B0 /* LaunchScreen.storyboard */; };
+		CD6B8FC51D06B98200639E8A /* 查询订单1.png in Resources */ = {isa = PBXBuildFile; fileRef = CD6B8FC31D06B98200639E8A /* 查询订单1.png */; };
+		CD6B8FC61D06B98200639E8A /* 查询订单2.png in Resources */ = {isa = PBXBuildFile; fileRef = CD6B8FC41D06B98200639E8A /* 查询订单2.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CD0D10DD1D065925002EC8B0 /* 订单查询.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "订单查询.app"; path = "/Users/lwb/Desktop/IOS物流平台（优化版本）/IOS物流平台（分解）/订单查询/build/Debug-iphoneos/订单查询.app"; sourceTree = "<absolute>"; };
+		CD0D10E11D065925002EC8B0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CD0D10E31D065925002EC8B0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CD0D10E41D065925002EC8B0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CD0D10E61D065925002EC8B0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		CD0D10E71D065925002EC8B0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		CD0D10EA1D065925002EC8B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CD0D10EC1D065925002EC8B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CD0D10EF1D065925002EC8B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CD0D10F11D065925002EC8B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD6B8FC31D06B98200639E8A /* 查询订单1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "查询订单1.png"; sourceTree = "<group>"; };
+		CD6B8FC41D06B98200639E8A /* 查询订单2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "查询订单2.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CD0D10DA1D065925002EC8B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CD0D10D41D065925002EC8B0 = {
+			isa = PBXGroup;
+			children = (
+				CD0D10DF1D065925002EC8B0 /* 订单查询 */,
+				CD6B8FC21D06B98200639E8A /* UIimage副本 */,
+			);
+			sourceTree = "<group>";
+		};
+		CD0D10DF1D065925002EC8B0 /* 订单查询 */ = {
+			isa = PBXGroup;
+			children = (
+				CD0D10E31D065925002EC8B0 /* AppDelegate.h */,
+				CD0D10E41D065925002EC8B0 /* AppDelegate.m */,
+				CD0D10E61D065925002EC8B0 /* ViewController.h */,
+				CD0D10E71D065925002EC8B0 /* ViewController.m */,
+				CD0D10E91D065925002EC8B0 /* Main.storyboard */,
+				CD0D10EC1D065925002EC8B0 /* Assets.xcassets */,
+				CD0D10EE1D065925002EC8B0 /* LaunchScreen.storyboard */,
+				CD0D10F11D065925002EC8B0 /* Info.plist */,
+				CD0D10E01D065925002EC8B0 /* Supporting Files */,
+			);
+			path = "订单查询";
+			sourceTree = "<group>";
+		};
+		CD0D10E01D065925002EC8B0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CD0D10E11D065925002EC8B0 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CD6B8FC21D06B98200639E8A /* UIimage副本 */ = {
+			isa = PBXGroup;
+			children = (
+				CD6B8FC31D06B98200639E8A /* 查询订单1.png */,
+				CD6B8FC41D06B98200639E8A /* 查询订单2.png */,
+			);
+			name = "UIimage副本";
+			path = "../../../../../../Volumes/UNTITLED/UIimage副本";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CD0D10DC1D065925002EC8B0 /* 订单查询 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD0D10F41D065925002EC8B0 /* Build configuration list for PBXNativeTarget "订单查询" */;
+			buildPhases = (
+				CD0D10D91D065925002EC8B0 /* Sources */,
+				CD0D10DA1D065925002EC8B0 /* Frameworks */,
+				CD0D10DB1D065925002EC8B0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "订单查询";
+			productName = "订单查询";
+			productReference = CD0D10DD1D065925002EC8B0 /* 订单查询.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CD0D10D51D065925002EC8B0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = lwb;
+				TargetAttributes = {
+					CD0D10DC1D065925002EC8B0 = {
+						CreatedOnToolsVersion = 7.2;
+					};
+				};
+			};
+			buildConfigurationList = CD0D10D81D065925002EC8B0 /* Build configuration list for PBXProject "订单查询" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CD0D10D41D065925002EC8B0;
+			productRefGroup = CD0D10D41D065925002EC8B0;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CD0D10DC1D065925002EC8B0 /* 订单查询 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CD0D10DB1D065925002EC8B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD0D10F01D065925002EC8B0 /* LaunchScreen.storyboard in Resources */,
+				CD6B8FC61D06B98200639E8A /* 查询订单2.png in Resources */,
+				CD0D10ED1D065925002EC8B0 /* Assets.xcassets in Resources */,
+				CD6B8FC51D06B98200639E8A /* 查询订单1.png in Resources */,
+				CD0D10EB1D065925002EC8B0 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CD0D10D91D065925002EC8B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD0D10E81D065925002EC8B0 /* ViewController.m in Sources */,
+				CD0D10E51D065925002EC8B0 /* AppDelegate.m in Sources */,
+				CD0D10E21D065925002EC8B0 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		CD0D10E91D065925002EC8B0 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD0D10EA1D065925002EC8B0 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CD0D10EE1D065925002EC8B0 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD0D10EF1D065925002EC8B0 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CD0D10F21D065925002EC8B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		CD0D10F31D065925002EC8B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CD0D10F51D065925002EC8B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "订单查询/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "cn.----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		CD0D10F61D065925002EC8B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "订单查询/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "cn.----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CD0D10D81D065925002EC8B0 /* Build configuration list for PBXProject "订单查询" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD0D10F21D065925002EC8B0 /* Debug */,
+				CD0D10F31D065925002EC8B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD0D10F41D065925002EC8B0 /* Build configuration list for PBXNativeTarget "订单查询" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD0D10F51D065925002EC8B0 /* Debug */,
+				CD0D10F61D065925002EC8B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CD0D10D51D065925002EC8B0 /* Project object */;
+}

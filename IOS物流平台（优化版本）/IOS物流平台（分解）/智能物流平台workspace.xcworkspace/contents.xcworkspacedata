@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:&#x5b89;&#x5168;&#x9501;"
+      name = "&#x5b89;&#x5168;&#x9501;">
+      <Group
+         location = "group:&#x9ad8;&#x4eff;&#x652f;&#x4ed8;&#x5b9d;&#x89e3;&#x9501;"
+         name = "&#x5b89;&#x5168;&#x9501;&#x89e3;&#x9501;">
+         <Group
+            location = "group:CoreLock"
+            name = "CoreLock">
+            <Group
+               location = "group:CoreLock"
+               name = "CoreLock">
+               <FileRef
+                  location = "group:1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:AppDelegate.m">
+               </FileRef>
+               <Group
+                  location = "group:Base.lproj"
+                  name = "Base.lproj">
+                  <FileRef
+                     location = "group:LaunchScreen.xib">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Main.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:core.gif">
+               </FileRef>
+               <Group
+                  location = "group:CoreLock"
+                  name = "CoreLock">
+                  <FileRef
+                     location = "group:CLLockVC.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:CLLockVC.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:CLLockVC~.xib">
+                  </FileRef>
+                  <Group
+                     location = "group:Lib"
+                     name = "Lib">
+                     <Group
+                        location = "group:Category"
+                        name = "Category">
+                        <FileRef
+                           location = "group:CALayer+Anim.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CALayer+Anim.m">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Const"
+                        name = "Const">
+                        <FileRef
+                           location = "group:CoreLockConst.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CoreLockConst.m">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Controller"
+                        name = "Controller">
+                        <FileRef
+                           location = "group:CLLockNavVC.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CLLockNavVC.m">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:View"
+                        name = "View">
+                        <FileRef
+                           location = "group:CLLockInfoView.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CLLockInfoView.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CLLockItemView.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CLLockItemView.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CLLockLabel.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CLLockLabel.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CLLockMainView.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CLLockMainView.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CLLockView.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:CLLockView.m">
+                        </FileRef>
+                     </Group>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:FrameWork"
+                  name = "FrameWork">
+                  <Group
+                     location = "group:CoreArchive"
+                     name = "CoreArchive">
+                     <Group
+                        location = "group:Category"
+                        name = "Category">
+                        <FileRef
+                           location = "group:NSString+File.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:NSString+File.m">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:CoreArchive.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:CoreArchive.m">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:CoreExtend"
+                     name = "CoreExtend">
+                     <FileRef
+                        location = "group:CoreConst.h">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:Images.xcassets"
+                  name = "Images.xcassets">
+                  <Group
+                     location = "group:AppIcon.appiconset"
+                     name = "AppIcon.appiconset">
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:LaunchImage.launchimage"
+                     name = "LaunchImage.launchimage">
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:CoreLock.xcodeproj">
+            </FileRef>
+            <Group
+               location = "group:CoreLockTests"
+               name = "CoreLockTests">
+               <FileRef
+                  location = "group:CoreLockTests.m">
+               </FileRef>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:CoreLock.zip">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:&#x767b;&#x9646;&#x754c;&#x9762;"
+      name = "&#x767b;&#x9646;&#x754c;&#x9762;">
+      <Group
+         location = "group:MHTextField"
+         name = "&#x767b;&#x9646;&#x754c;&#x9762;">
+         <Group
+            location = "group:Demo"
+            name = "Demo">
+            <Group
+               location = "group:MHTextField"
+               name = "MHTextField">
+               <Group
+                  location = "group:MHTextField"
+                  name = "MHTextField">
+                  <Group
+                     location = "group:Base.lproj"
+                     name = "Base.lproj">
+                     <FileRef
+                        location = "group:Main.storyboard">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:DemoTextField.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DemoTextField.m">
+                  </FileRef>
+                  <Group
+                     location = "group:en.lproj"
+                     name = "en.lproj">
+                     <FileRef
+                        location = "group:InfoPlist.strings">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Images.xcassets"
+                     name = "Images.xcassets">
+                     <Group
+                        location = "group:AppIcon.appiconset"
+                        name = "AppIcon.appiconset">
+                        <FileRef
+                           location = "group:Contents.json">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:LaunchImage.launchimage"
+                        name = "LaunchImage.launchimage">
+                        <FileRef
+                           location = "group:Contents.json">
+                        </FileRef>
+                     </Group>
+                  </Group>
+                  <FileRef
+                     location = "group:Localizable.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:main.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHAppDelegate.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHAppDelegate.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHCustomFieldViewController.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHCustomFieldViewController.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHDisaledFieldViewController.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHDisaledFieldViewController.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHSignupViewController.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHSignupViewController.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHTextField-Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHTextField-Prefix.pch">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHViewController.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHViewController.m">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:MHTextField.xcodeproj">
+               </FileRef>
+               <Group
+                  location = "group:MHTextFieldTests"
+                  name = "MHTextFieldTests">
+                  <Group
+                     location = "group:en.lproj"
+                     name = "en.lproj">
+                     <FileRef
+                        location = "group:InfoPlist.strings">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:MHTextFieldTests-Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MHTextFieldTests.m">
+                  </FileRef>
+               </Group>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <FileRef
+            location = "group:MHTextField.h">
+         </FileRef>
+         <FileRef
+            location = "group:MHTextField.m">
+         </FileRef>
+         <FileRef
+            location = "group:MHTextField.podspec">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:&#x8ba2;&#x5355;&#x67e5;&#x8be2;"
+      name = "&#x8ba2;&#x5355;&#x67e5;&#x8be2;">
+      <Group
+         location = "group:&#x8ba2;&#x5355;&#x67e5;&#x8be2;"
+         name = "&#x8ba2;&#x5355;&#x67e5;&#x8be2;">
+         <FileRef
+            location = "group:AppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:&#x8ba2;&#x5355;&#x67e5;&#x8be2;.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:&#x9644;&#x8fd1;&#x67e5;&#x8be2;"
+      name = "&#x9644;&#x8fd1;&#x67e5;&#x8be2;">
+      <Group
+         location = "group:GeocodeQuery"
+         name = "GeocodeQuery">
+         <FileRef
+            location = "group:AppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.xib">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:MyAnnotation.h">
+         </FileRef>
+         <FileRef
+            location = "group:MyAnnotation.m">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:GeocodeQuery.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:GeocodeQueryTests"
+         name = "GeocodeQueryTests">
+         <FileRef
+            location = "group:GeocodeQueryTests.m">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:&#x8d2d;&#x4e70;&#x754c;&#x9762;"
+      name = "&#x8d2d;&#x4e70;&#x754c;&#x9762;">
+      <Group
+         location = "group:ShoppingList_Demo"
+         name = "ShoppingList_Demo">
+         <FileRef
+            location = "group:AppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.xib">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:GoodsInfoModel.h">
+         </FileRef>
+         <FileRef
+            location = "group:GoodsInfoModel.m">
+         </FileRef>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:MyCustomCell.h">
+         </FileRef>
+         <FileRef
+            location = "group:MyCustomCell.m">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.m">
+         </FileRef>
+         <Group
+            location = "group:&#x8d2d;&#x7269;&#x8f66;"
+            name = "&#x8d2d;&#x7269;&#x8f66;">
+            <FileRef
+               location = "group:img6.png">
+            </FileRef>
+            <FileRef
+               location = "group:&#x590d;&#x9009;&#x6846;-&#x672a;&#x9009;&#x4e2d;.png">
+            </FileRef>
+            <FileRef
+               location = "group:&#x590d;&#x9009;&#x6846;-&#x9009;&#x4e2d;.png">
+            </FileRef>
+            <FileRef
+               location = "group:&#x6309;&#x94ae;+.png">
+            </FileRef>
+            <FileRef
+               location = "group:&#x6309;&#x94ae;-.png">
+            </FileRef>
+            <FileRef
+               location = "group:&#x8d2d;&#x7269;&#x8f66;&#x7a7a;.png">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:ShoppingList_Demo.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:ShoppingList_DemoTests"
+         name = "ShoppingList_DemoTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:ShoppingList_DemoTests.m">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:&#x626b;&#x63cf;&#x4e8c;&#x7ef4;&#x7801;&#x529f;&#x80fd;"
+      name = "&#x626b;&#x63cf;&#x4e8c;&#x7ef4;&#x7801;&#x529f;&#x80fd;">
+      <Group
+         location = "group:__MACOSX"
+         name = "__MACOSX">
+         <Group
+            location = "group:&#x4f7f;&#x7528;AVFoundation&#x626b;&#x63cf;&#x4e8c;&#x7ef4;&#x7801;&#x529f;&#x80fd;"
+            name = "&#x4f7f;&#x7528;AVFoundation&#x626b;&#x63cf;&#x4e8c;&#x7ef4;&#x7801;&#x529f;&#x80fd;">
+            <Group
+               location = "group:Example"
+               name = "Example">
+               <Group
+                  location = "group:QRCodeReaderViewControllerExample"
+                  name = "QRCodeReaderViewControllerExample">
+                  <Group
+                     location = "group:Base.lproj"
+                     name = "Base.lproj">
+                  </Group>
+                  <Group
+                     location = "group:Images.xcassets"
+                     name = "Images.xcassets">
+                     <Group
+                        location = "group:AppIcon.appiconset"
+                        name = "AppIcon.appiconset">
+                     </Group>
+                     <Group
+                        location = "group:LaunchImage.launchimage"
+                        name = "LaunchImage.launchimage">
+                     </Group>
+                  </Group>
+               </Group>
+               <FileRef
+                  location = "group:QRCodeReaderViewControllerExample.xcodeproj">
+               </FileRef>
+               <Group
+                  location = "group:QRCodeReaderViewControllerExampleTests"
+                  name = "QRCodeReaderViewControllerExampleTests">
+               </Group>
+            </Group>
+            <Group
+               location = "group:QRCodeReaderViewController"
+               name = "QRCodeReaderViewController">
+            </Group>
+            <Group
+               location = "group:web"
+               name = "web">
+            </Group>
+         </Group>
+      </Group>
+      <Group
+         location = "group:&#x4f7f;&#x7528;AVFoundation&#x626b;&#x63cf;&#x4e8c;&#x7ef4;&#x7801;&#x529f;&#x80fd;"
+         name = "&#x4f7f;&#x7528;AVFoundation&#x626b;&#x63cf;&#x4e8c;&#x7ef4;&#x7801;&#x529f;&#x80fd;">
+         <FileRef
+            location = "group:CONTRIBUTORS.md">
+         </FileRef>
+         <Group
+            location = "group:Example"
+            name = "Example">
+            <Group
+               location = "group:QRCodeReaderViewControllerExample"
+               name = "QRCodeReaderViewControllerExample">
+               <FileRef
+                  location = "group:AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:AppDelegate.m">
+               </FileRef>
+               <Group
+                  location = "group:Base.lproj"
+                  name = "Base.lproj">
+                  <FileRef
+                     location = "group:Main.storyboard">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Images.xcassets"
+                  name = "Images.xcassets">
+                  <Group
+                     location = "group:AppIcon.appiconset"
+                     name = "AppIcon.appiconset">
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:LaunchImage.launchimage"
+                     name = "LaunchImage.launchimage">
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:QRCodeReaderViewControllerExample.xcodeproj">
+            </FileRef>
+            <Group
+               location = "group:QRCodeReaderViewControllerExampleTests"
+               name = "QRCodeReaderViewControllerExampleTests">
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:QRCodeReaderViewControllerExampleTests.m">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <Group
+            location = "group:QRCodeReaderViewController"
+            name = "QRCodeReaderViewController">
+            <FileRef
+               location = "group:QRCameraSwitchButton.h">
+            </FileRef>
+            <FileRef
+               location = "group:QRCameraSwitchButton.m">
+            </FileRef>
+            <FileRef
+               location = "group:QRCodeReaderDelegate.h">
+            </FileRef>
+            <FileRef
+               location = "group:QRCodeReaderView.h">
+            </FileRef>
+            <FileRef
+               location = "group:QRCodeReaderView.m">
+            </FileRef>
+            <FileRef
+               location = "group:QRCodeReaderViewController.h">
+            </FileRef>
+            <FileRef
+               location = "group:QRCodeReaderViewController.m">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:QRCodeReaderViewController.podspec">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+         <Group
+            location = "group:web"
+            name = "web">
+            <FileRef
+               location = "group:qrcodereaderviewcontroller_header.png">
+            </FileRef>
+            <FileRef
+               location = "group:screenshot.jpg">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+   <Group
+      location = "group:&#x8bbe;&#x5907;&#x9009;&#x62e9;"
+      name = "&#x8bbe;&#x5907;&#x9009;&#x62e9;">
+      <Group
+         location = "group:MotionActivityManagerTest"
+         name = "MotionActivityManagerTest">
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:FKAppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:FKAppDelegate.m">
+         </FileRef>
+         <FileRef
+            location = "group:FKViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:FKViewController.m">
+         </FileRef>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:LaunchImage.launchimage"
+               name = "LaunchImage.launchimage">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:MotionActivityManagerTest-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:MotionActivityManagerTest-Prefix.pch">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MotionActivityManagerTest.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:&#x9009;&#x62e9;&#x65f6;&#x95f4;&#x5012;&#x8ba1;&#x65f6;"
+      name = "&#x9009;&#x62e9;&#x65f6;&#x95f4;&#x5012;&#x8ba1;&#x65f6;">
+      <Group
+         location = "group:__MACOSX"
+         name = "__MACOSX">
+         <Group
+            location = "group:&#x81ea;&#x5b9a;&#x4e49;&#x65f6;&#x95f4;&#x65e5;&#x671f;&#x9009;&#x62e9;&#x5668;"
+            name = "&#x81ea;&#x5b9a;&#x4e49;&#x65f6;&#x95f4;&#x65e5;&#x671f;&#x9009;&#x62e9;&#x5668;">
+            <Group
+               location = "group:HSDatePickerViewControllerDemo"
+               name = "HSDatePickerViewControllerDemo">
+               <Group
+                  location = "group:Base.lproj"
+                  name = "Base.lproj">
+               </Group>
+               <Group
+                  location = "group:HSDatePickerViewController"
+                  name = "HSDatePickerViewController">
+               </Group>
+               <Group
+                  location = "group:Images.xcassets"
+                  name = "Images.xcassets">
+                  <Group
+                     location = "group:AppIcon.appiconset"
+                     name = "AppIcon.appiconset">
+                  </Group>
+                  <Group
+                     location = "group:sample_background.imageset"
+                     name = "sample_background.imageset">
+                  </Group>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:HSDatePickerViewControllerDemo.xcodeproj">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:&#x81ea;&#x5b9a;&#x4e49;&#x65f6;&#x95f4;&#x65e5;&#x671f;&#x9009;&#x62e9;&#x5668;"
+         name = "&#x81ea;&#x5b9a;&#x4e49;&#x65f6;&#x95f4;&#x65e5;&#x671f;&#x9009;&#x62e9;&#x5668;">
+         <FileRef
+            location = "group:HSDatePickerViewController.podspec">
+         </FileRef>
+         <Group
+            location = "group:HSDatePickerViewControllerDemo"
+            name = "HSDatePickerViewControllerDemo">
+            <FileRef
+               location = "group:AppDelegate.h">
+            </FileRef>
+            <FileRef
+               location = "group:AppDelegate.m">
+            </FileRef>
+            <Group
+               location = "group:Base.lproj"
+               name = "Base.lproj">
+               <FileRef
+                  location = "group:LaunchScreen.xib">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:HSDatePickerViewController"
+               name = "HSDatePickerViewController">
+               <FileRef
+                  location = "group:HSDatePickerViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:HSDatePickerViewController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:HSDatePickerViewController.xib">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Images.xcassets"
+               name = "Images.xcassets">
+               <Group
+                  location = "group:AppIcon.appiconset"
+                  name = "AppIcon.appiconset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:sample_background.imageset"
+                  name = "sample_background.imageset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+                  <FileRef
+                     location = "group:sample_background.jpg">
+                  </FileRef>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:main.m">
+            </FileRef>
+            <FileRef
+               location = "group:ViewController.h">
+            </FileRef>
+            <FileRef
+               location = "group:ViewController.m">
+            </FileRef>
+            <FileRef
+               location = "group:ViewController.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:HSDatePickerViewControllerDemo.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:MHTextField"
+      name = "&#x767b;&#x9646;&#x754c;&#x9762;">
+      <Group
+         location = "group:Demo"
+         name = "Demo">
+         <Group
+            location = "group:MHTextField"
+            name = "MHTextField">
+            <Group
+               location = "group:MHTextField"
+               name = "MHTextField">
+               <Group
+                  location = "group:Base.lproj"
+                  name = "Base.lproj">
+                  <FileRef
+                     location = "group:Main.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:DemoTextField.h">
+               </FileRef>
+               <FileRef
+                  location = "group:DemoTextField.m">
+               </FileRef>
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Images.xcassets"
+                  name = "Images.xcassets">
+                  <Group
+                     location = "group:AppIcon.appiconset"
+                     name = "AppIcon.appiconset">
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:LaunchImage.launchimage"
+                     name = "LaunchImage.launchimage">
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <FileRef
+                  location = "group:Localizable.strings">
+               </FileRef>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:MHAppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:MHAppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:MHCustomFieldViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:MHCustomFieldViewController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:MHDisaledFieldViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:MHDisaledFieldViewController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:MHSignupViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:MHSignupViewController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:MHTextField-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:MHTextField-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:MHViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:MHViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:MHTextField.xcodeproj">
+            </FileRef>
+            <Group
+               location = "group:MHTextFieldTests"
+               name = "MHTextFieldTests">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:MHTextFieldTests-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:MHTextFieldTests.m">
+               </FileRef>
+            </Group>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:LICENSE">
+      </FileRef>
+      <FileRef
+         location = "group:MHTextField.h">
+      </FileRef>
+      <FileRef
+         location = "group:MHTextField.m">
+      </FileRef>
+      <FileRef
+         location = "group:MHTextField.podspec">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:UI&#x6846;&#x67b6;"
+      name = "UI&#x6846;&#x67b6;">
+      <Group
+         location = "group:&#x7269;&#x6d41;&#x5e73;&#x53f0;&#x6846;&#x67b6;"
+         name = "&#x7269;&#x6d41;&#x5e73;&#x53f0;&#x6846;&#x67b6;">
+         <Group
+            location = "group:NewsFourApp"
+            name = "NewsFourApp">
+            <FileRef
+               location = "group:AppDelegate.h">
+            </FileRef>
+            <FileRef
+               location = "group:AppDelegate.m">
+            </FileRef>
+            <Group
+               location = "group:en.lproj"
+               name = "en.lproj">
+               <FileRef
+                  location = "group:InfoPlist.strings">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:head1.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:head2.jpg">
+            </FileRef>
+            <Group
+               location = "group:Images.xcassets"
+               name = "Images.xcassets">
+               <Group
+                  location = "group:AppIcon.appiconset"
+                  name = "AppIcon.appiconset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:LaunchImage.launchimage"
+                  name = "LaunchImage.launchimage">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+            </Group>
+            <Group
+               location = "group:LBBlurredImage"
+               name = "LBBlurredImage">
+               <FileRef
+                  location = "group:UIImage+ImageEffects.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UIImage+ImageEffects.m">
+               </FileRef>
+               <FileRef
+                  location = "group:UIImageView+LBBlurredImage.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UIImageView+LBBlurredImage.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:LeftViewController.h">
+            </FileRef>
+            <FileRef
+               location = "group:LeftViewController.m">
+            </FileRef>
+            <FileRef
+               location = "group:main.m">
+            </FileRef>
+            <FileRef
+               location = "group:MainAppViewController.h">
+            </FileRef>
+            <FileRef
+               location = "group:MainAppViewController.m">
+            </FileRef>
+            <Group
+               location = "group:MLTransition"
+               name = "MLTransition">
+               <FileRef
+                  location = "group:MLTransitionAnimation.h">
+               </FileRef>
+               <FileRef
+                  location = "group:MLTransitionAnimation.m">
+               </FileRef>
+               <FileRef
+                  location = "group:UIViewController+MLTransition.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UIViewController+MLTransition.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:NewsFourApp-Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:NewsFourApp-Prefix.pch">
+            </FileRef>
+            <FileRef
+               location = "group:QHCommonUtil.h">
+            </FileRef>
+            <FileRef
+               location = "group:QHCommonUtil.m">
+            </FileRef>
+            <FileRef
+               location = "group:QHViewTag.h">
+            </FileRef>
+            <FileRef
+               location = "group:RightViewController.h">
+            </FileRef>
+            <FileRef
+               location = "group:RightViewController.m">
+            </FileRef>
+            <Group
+               location = "group:SliderViewController"
+               name = "SliderViewController">
+               <FileRef
+                  location = "group:QHSliderViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:QHSliderViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:SubViewController.h">
+            </FileRef>
+            <FileRef
+               location = "group:SubViewController.m">
+            </FileRef>
+            <FileRef
+               location = "group:TouchPropagatedScrollView.h">
+            </FileRef>
+            <FileRef
+               location = "group:TouchPropagatedScrollView.m">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:NewsFourApp.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:NewsFourAppTests"
+            name = "NewsFourAppTests">
+            <Group
+               location = "group:en.lproj"
+               name = "en.lproj">
+               <FileRef
+                  location = "group:InfoPlist.strings">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:NewsFourAppTests-Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:NewsFourAppTests.m">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
